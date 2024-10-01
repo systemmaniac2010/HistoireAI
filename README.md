@@ -1,7 +1,9 @@
 # AuroraAI
-Source code for Aurora AI
 Aurora AI User Manual
+
 Introduction
+
+
 Welcome to Aurora AI, a versatile and customizable virtual assistant designed to help you perform a variety of tasks with ease. From playing music to launching troubleshooters, browsing the web, and executing custom commands, Aurora AI integrates smoothly into your workflow. With its customizable themes, system information display, and voice-activated commands, it enhances both functionality and aesthetics.
 
 Features Overview
