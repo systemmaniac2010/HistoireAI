@@ -97,7 +97,7 @@ _I am So Proud To Present You, A Convenient Chatbot That Can Launch Troubleshoot
 ![Screenshot 2024-09-30 182738](https://github.com/user-attachments/assets/d7771e64-872b-4b74-9545-50fce4951aa2)
 ![Screenshot 2024-09-30 182841](https://github.com/user-attachments/assets/fa71c19c-b9fa-4178-9ba1-c6e07cfa36e9)
 
->**Yellow****
+>**Yellow**
 ![Screenshot 2024-09-30 182752](https://github.com/user-attachments/assets/3a3f43f4-2794-4e7a-bd8a-bf169ae1da0f)
 ![Screenshot 2024-09-30 182829](https://github.com/user-attachments/assets/abc72a3f-61b9-4b81-bde4-98f106f777f6)
 
