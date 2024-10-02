@@ -4,11 +4,17 @@ _I am So Proud To Present You, A Convenient Chatbot That Can Launch Troubleshoot
 
 ## Features Overview
 > ***Play Songs***
+> 
 > ***Tell The Time***
+> 
 > ***Browse The Web***
+>
 > ***Custom Commands***
+> 
 > ***Customizable Themes***
+>
 > ***System Info***
+> 
 > ***Voice And Text Interaction***
  
 ## Custom Commands
@@ -19,13 +25,21 @@ _I am So Proud To Present You, A Convenient Chatbot That Can Launch Troubleshoot
 
 ***Can Be Of Type:***
 >_CMD Command_
+>
 >_Powershell Command_
+>
 >_Web URL_
+>
 >_App Executable Path_
+>
 >_.MSI Executable Path_
+>
 >_.BAT Script Path_
+>
 >_.PS1 Script Path_
+>
 >_Text And Other Files_
+>
  
 ## Themes
 >***Autumn***
